@@ -1,0 +1,9 @@
+Player 2 37 0 0
+Button 27 38 Action 30 39 4 1 Up 8
+Button 27 30 Previous
+Button 8 21 Action 20 18 5 1 Left 4
+Button 28 21 Previous
+Oneway 6 23 1 6 Left
+Block 37 20
+Block 27 37
+Block 6 20

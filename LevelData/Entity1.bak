@@ -1,0 +1,9 @@
+Player 2 45 0 0
+Button 58 41 Action 58 42 5 1 Left 5
+Button 14 38 Action 1 39 6 1 Up 6
+Button 1 15 Action 7 6 1 6 Down 5
+Block 30 45
+Block 30 37
+Oneway 45 26 1 5 Right
+Oneway 45 25 18 1 Up
+Ball 9 45
