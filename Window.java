@@ -2,8 +2,8 @@
  * [Window.java]
  * Window where graphical components are shown
  * Manages current shown JPanel
- * @author Evan Tao
- * @version 1.0 Jun 2022
+ * @author Jason Sun
+ * @version 3.0 July 2022
  */
 import javax.swing.JButton;
 import javax.swing.JFrame;
