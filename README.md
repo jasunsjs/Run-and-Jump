@@ -1,6 +1,4 @@
 # Run-and-Jump
 
-A 2-player platform game.
-
-Made using Java.
+A 2-player multiplayer platform game using Java Socket programming
 
