@@ -3,7 +3,7 @@
  * Window where graphical components are shown
  * Manages current shown JPanel
  * @author Jason Sun
- * @version 3.0 July 2022
+ * @version 3.0 August 2022
  */
 import javax.swing.JButton;
 import javax.swing.JFrame;
